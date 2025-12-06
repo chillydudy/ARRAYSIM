@@ -13,7 +13,7 @@ This program implements common **array operations** such as:
 - Swap two elements  
 - Display array  
 
-All operations are performed using **dynamic memory allocation (malloc)** and an interactive menu.
+All operations are performed using an interactive menu.
 
 ---
 
