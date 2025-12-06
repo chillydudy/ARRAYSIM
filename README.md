@@ -19,25 +19,25 @@ All operations are performed using an interactive menu.
 
 ##  Features
 
-###  Insert
+•  Insert
 Adds a value at any valid index and shifts existing elements to the right.
 
-###  Delete
+•  Delete
 Removes an element at a given index and shifts remaining elements left.
 
-###  Search
+•  Search
 Linear search for a target value.
 
-###  Sort (Bubble Sort)
+•  Sort (Bubble Sort)
 Sorts array in ascending order.
 
-###  Reverse
+•  Reverse
 Reverses the array in-place.
 
-###  Swap
+•  Swap
 Swaps values at two user-given indices.
 
-###  Display
+•  Display
 Shows current array with indexes and corresponding values.
 
 ---
